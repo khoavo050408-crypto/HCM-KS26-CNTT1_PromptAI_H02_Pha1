@@ -54,7 +54,7 @@ Kết quả: {"ma_goi": "VIP", "ngay_su_kien": "2026-11-15", "nguoi_lon": 2, "tr
 - Tin nhắn mẫu 2: Cho mình một vé Fan Zone, ngày nào cũng được, mình đi một mình.
 Kết quả: {"ma_goi": "FZ", "ngay_su_kien": null, "nguoi_lon": 1, "tre_em": 0, "loai_ve": "thuong", "ghi_chu": null}
 
-A - Action: Đọc kỹ từng tin nhắn trong thẻ <tin_nhan>, đối chiếu với bảng mã gói và áp dụng chính xác 5 quy tắc chuẩn hoá trên để xuất ra JSON.
+A - Action: Đọc kỹ từng tin nhắn trong thẻ <tin_nhan>, đối chiếu với bảng mã gói và áp dụng chính xác 5 quy tắc để chuẩn hoá trên để xuất ra JSON.
 
 T - Tone: Khách quan, chính xác, tuân thủ tuyệt đối cấu trúc dữ liệu.
 
